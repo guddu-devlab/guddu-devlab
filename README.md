@@ -1,7 +1,8 @@
+
 <!-- HEADER BANNER -->
 <!-- Tip: Crop the banner from the generated image above, upload it to your repo as 'banner.png', and change the src below to './banner.png' -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:facc15&height=200&section=header&text=HI,%20I'M%20PIKACHU!&fontSize=50&fontColor=facc15&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Enthusiast%20%26%20Developer&descAlignY=60&descSize=22&descColor=38bdf8" width="100%" alt="Header Banner" />
+  <img width="3584" height="1184" alt="Gemini_Generated_Image_8tmplm8tmplm8tmp" src="https://github.com/user-attachments/assets/333e976b-6bc3-41e0-b016-6ac4916f1ca8" />
 
   <!-- SOCIAL BADGES -->
   <p align="center">
