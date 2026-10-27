@@ -29,6 +29,9 @@
     <!-- LEFT COLUMN -->
     <td width="50%" valign="top">
       <h3>⚡ ABOUT ME</h3>
+      <!-- YOUR NEW ANIMATION IS INSERTED HERE -->
+      <img src="./animation.svg" alt="Animated Text" />
+      <br/>
       <p>
         I'm a passionate developer currently journeying through <b>AI, Machine Learning, and low-level C programming</b>. Guddu is my mascot, and lightning-fast solutions are my specialty!
       </p>
