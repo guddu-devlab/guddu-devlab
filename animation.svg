@@ -1,0 +1,33 @@
+<svg width="400" height="60" viewBox="0 0 400 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .text { font-family: Georgia, 'Times New Roman', Times, serif; font-size: 28px; font-weight: bold; fill: #c9d1d9; }
+        .red-text { fill: #ff0000; }
+        .slider { animation: slide 6s infinite ease-in-out; }
+        
+        /* I added slight pauses in the keyframes so it holds on each word perfectly */
+        @keyframes slide {
+            0%, 10% { transform: translateY(0); }
+            16.66%, 26.66% { transform: translateY(-40px); }
+            33.32%, 43.32% { transform: translateY(-80px); }
+            49.98%, 59.98% { transform: translateY(-120px); }
+            66.64%, 76.64% { transform: translateY(-160px); }
+            83.3%, 93.3% { transform: translateY(-200px); }
+            100% { transform: translateY(-240px); }
+        }
+    </style>
+    
+    <text x="10" y="40" class="text">I'm a </text>
+    
+    <!-- This SVG box acts as the hidden overflow container -->
+    <svg x="90" y="10" width="200" height="40">
+        <g class="slider">
+            <text x="0" y="30" class="text red-text">Coder</text>
+            <text x="0" y="70" class="text red-text">Programmer</text>
+            <text x="0" y="110" class="text red-text">Developer</text>
+            <text x="0" y="150" class="text red-text">Designer</text>
+            <text x="0" y="190" class="text red-text">Teacher</text>
+            <text x="0" y="230" class="text red-text">Engineer</text>
+            <text x="0" y="270" class="text red-text">Coder</text>
+        </g>
+    </svg>
+</svg>
