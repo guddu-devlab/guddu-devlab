@@ -6,10 +6,10 @@
 
   <!-- SOCIAL BADGES -->
   <p align="center">
-    <a href="www.linkedin.com/in/guddu-kumar-9aa95939a">
+    <a href="https://www.linkedin.com/in/guddu-kumar-9aa95939a/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <a href="https://instagram.com/kumar_guddu1/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://your-portfolio-url.com">
@@ -58,11 +58,11 @@
     <td width="50%" valign="top" align="center">
       <h3 align="left">📊 GITHUB STATS & CARD</h3>
       <a href="https://github.com/guddu-devlab">
-        <img src="https://github-readme-stats.vercel.app/api?username=guddu-devlab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=facc15&icon_color=facc15&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guddu-devlab&amp;theme=github_dark" width="100%" alt="GitHub Stats" />
       </a>
       <br/><br/>
       <a href="https://github.com/guddu-devlab">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guddu-devlab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=facc15&text_color=c9d1d9" width="100%" alt="Most Used Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guddu-devlab&amp;theme=github_dark" width="100%" alt="Most Used Languages" />
       </a>
     </td>
   </tr>
@@ -89,3 +89,4 @@
 </table>
 
 ### Thanks for stopping by! ⚡
+♦
